@@ -15,7 +15,7 @@ import (
 )
 
 // version is what "/" and "/version" answer. Change it to prove a new build.
-const version = "1.0.0"
+const version = "1.0.1-rec03"
 
 var tableName = regexp.MustCompile(`^[a-z_][a-z0-9_]{0,62}$`)
 
